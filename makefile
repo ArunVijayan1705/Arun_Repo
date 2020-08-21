@@ -1,3 +1,4 @@
+nano makefile
 echo "Title:" > README.md
 echo "The UNIX Workbench Course by Johns Hopkins University." >> README.md
 echo "\n This course is used to learn the fundamentals of UNIX and GIT. As a part of the course a program is designed to guess the number of lines in the directory." >> README.md
