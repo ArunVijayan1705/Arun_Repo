@@ -1,5 +1,3 @@
-info:guessinggame.sh
-
 echo "**Title:**" > README.md
 find -name guessinggame.sh >> README.md
 echo "\n Description:"
